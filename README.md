@@ -4,7 +4,7 @@ A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
 ```bash
-cd Downloads && wget https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage 
+wget https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage 
 sudo add-apt-repository universe
 sudo apt install libfuse2
 chmod u+x nvim.appimage
