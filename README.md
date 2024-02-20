@@ -11,3 +11,5 @@ chmod u+x nvim.appimage
 sudo mv ./nvim.appimage /usr/bin/nvim
 git clone https://github.com/ethanholter/dotfiles.nvim ~/.config/nvim
 ```
+
+Install NerdFonts [here](https://www.nerdfonts.com/font-downloads)
