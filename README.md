@@ -8,6 +8,6 @@ wget https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage
 sudo add-apt-repository universe
 sudo apt install libfuse2
 chmod u+x nvim.appimage
-mv ./nvim.appimage /usr/bin/nvim
+sudo mv ./nvim.appimage /usr/bin/nvim
 git clone https://github.com/ethanholter/dotfiles.nvim ~/.config/nvim
 ```
